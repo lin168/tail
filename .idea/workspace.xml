@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d04851a0-ce63-4c28-b8bd-d876fca008e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Godeps/Godeps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Godeps/Readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/gotail/gotail.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/gotail/gotail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tail.go" beforeDir="false" afterPath="$PROJECT_DIR$/tail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tail_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tail_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tail_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/tail_windows.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/fsnotify.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/inotify.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/inotify_poller.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/kqueue.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/open_mode_bsd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/open_mode_darwin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/fsnotify/fsnotify.v1/windows.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/tomb.v1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/tomb.v1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/gopkg.in/tomb.v1/tomb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/inotify.go" beforeDir="false" afterPath="$PROJECT_DIR$/watch/inotify.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/inotify_tracker.go" beforeDir="false" afterPath="$PROJECT_DIR$/watch/inotify_tracker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/polling.go" beforeDir="false" afterPath="$PROJECT_DIR$/watch/polling.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/watch.go" beforeDir="false" afterPath="$PROJECT_DIR$/watch/watch.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://C:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mMN8YJoYDrAmQ76YlpxvlM4C8W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
